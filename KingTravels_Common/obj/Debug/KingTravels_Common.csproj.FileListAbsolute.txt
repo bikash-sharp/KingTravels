@@ -3,11 +3,6 @@ C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Com
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.dll
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.pdb
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.csprojResolveAssemblyReference.cache
-F:\Major\KingTravels\KingTravels_Common\bin\Debug\KingTravels_Common.dll
-F:\Major\KingTravels\KingTravels_Common\bin\Debug\KingTravels_Common.pdb
-F:\Major\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.csprojResolveAssemblyReference.cache
-F:\Major\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.dll
-F:\Major\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.pdb
 E:\Major\KingTravels\KingTravels_Common\bin\Debug\KingTravels_Common.dll
 E:\Major\KingTravels\KingTravels_Common\bin\Debug\KingTravels_Common.pdb
 E:\Major\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.csprojResolveAssemblyReference.cache
@@ -27,3 +22,8 @@ C:\Users\Maverick\Desktop\KingTravels\KingTravels_Common\bin\Debug\KingTravels_C
 C:\Users\Maverick\Desktop\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.dll
 C:\Users\Maverick\Desktop\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.pdb
 C:\Users\Maverick\Desktop\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.csprojResolveAssemblyReference.cache
+F:\Major\KingTravels\KingTravels_Common\bin\Debug\KingTravels_Common.dll
+F:\Major\KingTravels\KingTravels_Common\bin\Debug\KingTravels_Common.pdb
+F:\Major\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.csprojResolveAssemblyReference.cache
+F:\Major\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.dll
+F:\Major\KingTravels\KingTravels_Common\obj\Debug\KingTravels_Common.pdb

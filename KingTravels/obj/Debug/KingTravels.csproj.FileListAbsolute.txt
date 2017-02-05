@@ -1,9 +1,3 @@
-F:\Major\KingTravels\KingTravels\bin\KingTravels.dll.config
-F:\Major\KingTravels\KingTravels\bin\KingTravels.dll
-F:\Major\KingTravels\KingTravels\bin\KingTravels.pdb
-F:\Major\KingTravels\KingTravels\obj\Debug\KingTravels.dll
-F:\Major\KingTravels\KingTravels\obj\Debug\KingTravels.pdb
-F:\Major\KingTravels\KingTravels\obj\Debug\KingTravels.csprojResolveAssemblyReference.cache
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels\bin\KingTravels.dll.config
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels\bin\KingTravels.dll
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels\bin\KingTravels.pdb
@@ -18,14 +12,6 @@ C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels\bin
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels\obj\Debug\KingTravels.csprojResolveAssemblyReference.cache
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels\obj\Debug\KingTravels.dll
 C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels\obj\Debug\KingTravels.pdb
-F:\Major\KingTravels\KingTravels\bin\KingTravels_Common.dll
-F:\Major\KingTravels\KingTravels\bin\KingTravels_Wrapper.dll
-F:\Major\KingTravels\KingTravels\bin\Newtonsoft.Json.dll
-F:\Major\KingTravels\KingTravels\bin\API_Hotel.dll
-F:\Major\KingTravels\KingTravels\bin\KingTravels_Common.pdb
-F:\Major\KingTravels\KingTravels\bin\KingTravels_Wrapper.pdb
-F:\Major\KingTravels\KingTravels\bin\Newtonsoft.Json.xml
-F:\Major\KingTravels\KingTravels\bin\API_Hotel.pdb
 E:\Major\KingTravels\KingTravels\bin\KingTravels.dll.config
 E:\Major\KingTravels\KingTravels\bin\KingTravels.dll
 E:\Major\KingTravels\KingTravels\bin\KingTravels.pdb
@@ -96,3 +82,17 @@ C:\Users\Maverick\Desktop\KingTravels\KingTravels\bin\API_Hotel.pdb
 C:\Users\Maverick\Desktop\KingTravels\KingTravels\obj\Debug\KingTravels.csprojResolveAssemblyReference.cache
 C:\Users\Maverick\Desktop\KingTravels\KingTravels\obj\Debug\KingTravels.dll
 C:\Users\Maverick\Desktop\KingTravels\KingTravels\obj\Debug\KingTravels.pdb
+F:\Major\KingTravels\KingTravels\bin\KingTravels.dll.config
+F:\Major\KingTravels\KingTravels\bin\KingTravels.dll
+F:\Major\KingTravels\KingTravels\bin\KingTravels.pdb
+F:\Major\KingTravels\KingTravels\bin\KingTravels_Common.dll
+F:\Major\KingTravels\KingTravels\bin\KingTravels_Wrapper.dll
+F:\Major\KingTravels\KingTravels\bin\Newtonsoft.Json.dll
+F:\Major\KingTravels\KingTravels\bin\API_Hotel.dll
+F:\Major\KingTravels\KingTravels\bin\KingTravels_Common.pdb
+F:\Major\KingTravels\KingTravels\bin\KingTravels_Wrapper.pdb
+F:\Major\KingTravels\KingTravels\bin\Newtonsoft.Json.xml
+F:\Major\KingTravels\KingTravels\bin\API_Hotel.pdb
+F:\Major\KingTravels\KingTravels\obj\Debug\KingTravels.csprojResolveAssemblyReference.cache
+F:\Major\KingTravels\KingTravels\obj\Debug\KingTravels.dll
+F:\Major\KingTravels\KingTravels\obj\Debug\KingTravels.pdb
