@@ -1,0 +1,56 @@
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Wrapper.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Wrapper.pdb
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\API_Air.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\API_Hotel.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Common.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\Newtonsoft.Json.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\System.Net.Http.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\API_Air.pdb
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\API_Hotel.pdb
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Common.pdb
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\Newtonsoft.Json.xml
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\bin\Release\System.Net.Http.xml
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.pdb
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Wrapper.dll
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Wrapper.pdb
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\API_Air.dll
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\API_Hotel.dll
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Common.dll
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\Newtonsoft.Json.dll
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\API_Air.pdb
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\API_Hotel.pdb
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Common.pdb
+F:\Major\KingTravels\KingTravels_Wrapper\bin\Release\Newtonsoft.Json.xml
+F:\Major\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.csprojResolveAssemblyReference.cache
+F:\Major\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.dll
+F:\Major\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.pdb
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Wrapper.dll
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Wrapper.pdb
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\API_Air.dll
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\API_Hotel.dll
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Common.dll
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\Newtonsoft.Json.dll
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\API_Air.pdb
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\API_Hotel.pdb
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Common.pdb
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\Newtonsoft.Json.xml
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.dll
+C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.pdb
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Wrapper.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Wrapper.pdb
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\API_Air.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\API_Hotel.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Common.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\Newtonsoft.Json.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\System.Net.Http.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\API_Air.pdb
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\API_Hotel.pdb
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\KingTravels_Common.pdb
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\Newtonsoft.Json.xml
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\bin\Release\System.Net.Http.xml
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\KingTravels_Wrapper\obj\Release\KingTravels_Wrapper.pdb

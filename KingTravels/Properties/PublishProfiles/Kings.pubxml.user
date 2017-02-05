@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Maverick\KingTravels</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/Airline.aspx">
+      <publishTime>12/20/2016 17:44:20</publishTime>
+    </File>
+    <File Include="Admin/AirlineInfo.aspx">
+      <publishTime>12/15/2016 12:44:18</publishTime>
+    </File>
+    <File Include="Admin/BookingInfo.aspx">
+      <publishTime>01/30/2017 01:36:21</publishTime>
+    </File>
+    <File Include="Admin/Dashboard.aspx">
+      <publishTime>11/12/2016 20:10:02</publishTime>
+    </File>
+    <File Include="Admin/Home.aspx">
+      <publishTime>01/23/2017 00:27:22</publishTime>
+    </File>
+    <File Include="Admin/HotelCancellation.aspx">
+      <publishTime>01/23/2017 01:39:23</publishTime>
+    </File>
+    <File Include="Admin/HotelInfo.aspx">
+      <publishTime>01/26/2017 16:25:01</publishTime>
+    </File>
+    <File Include="Admin/RoomInfo.aspx">
+      <publishTime>12/20/2016 06:50:27</publishTime>
+    </File>
+    <File Include="bin/API_Hotel.dll">
+      <publishTime>01/30/2017 23:08:20</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>01/30/2017 23:08:36</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>01/30/2017 23:08:36</publishTime>
+    </File>
+    <File Include="bin/KingTravels.dll">
+      <publishTime>01/30/2017 23:08:22</publishTime>
+    </File>
+    <File Include="bin/KingTravels_Common.dll">
+      <publishTime>01/30/2017 23:08:20</publishTime>
+    </File>
+    <File Include="bin/KingTravels_Wrapper.dll">
+      <publishTime>01/30/2017 23:08:21</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/13/2016 23:06:14</publishTime>
+    </File>
+    <File Include="CustomError.aspx">
+      <publishTime>11/14/2016 07:59:20</publishTime>
+    </File>
+    <File Include="dist/css/AdminLTE.css">
+      <publishTime>12/20/2016 18:05:41</publishTime>
+    </File>
+    <File Include="dist/css/AdminLTE.min.css">
+      <publishTime>12/21/2016 08:34:23</publishTime>
+    </File>
+    <File Include="dist/css/fonts/fpTVHK8qsXbIeTHTrnQH6CzM2XYAq8cDhaXsrN8WXcA.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/fpTVHK8qsXbIeTHTrnQH6E78GtRp3lhchupCJNw8t58.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/fpTVHK8qsXbIeTHTrnQH6GQKuzMuncr0JB710wa2dPI.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/fpTVHK8qsXbIeTHTrnQH6Lpx497t94oDua8KfAL9f-E.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/fpTVHK8qsXbIeTHTrnQH6MAjkyiewWYrWZc50I8hK7I.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/fpTVHK8qsXbIeTHTrnQH6OXKTZYPNtG1yMB_YJSqlic.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/M2Jd71oPJhLKp0zdtTvoM40tgx99jmYGv_xzYuwd1rU.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/M2Jd71oPJhLKp0zdtTvoM7YHq4FgHI02B8rPccK0FJQ.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/M2Jd71oPJhLKp0zdtTvoMxgy2Fsj5sj3EzlXpqVXRKo.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/ODelI1aHBYDBqgeIAH2zlC2Q8seG17bfDXYR_jUsrzg.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/ODelI1aHBYDBqgeIAH2zlNOAHFN6BivSraYkjhveRHY.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/ODelI1aHBYDBqgeIAH2zlNV_2ngZ8dMf8fLgjYEouxg.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGClYwVOhDRq2vbpGRTZ7bbs.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGCOFnW3Jk0f09zW_Yln67Ac.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGDovqjS_dXPZszO_XltPdNg.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGDRVvBvQIc1z78c__uoBcyI.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGD_j0nMiB9fPhg_k1wdK2h0.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGEo0As1BFRXtCDhS66znb_k.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGFKFh1TDTPrUZWzVp6FtpG8.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGFxe-GPfKKFmiXaJ_Q0GFr8.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/fonts/toadOcfmlt9b38dHJxOBGOode0-EuMkY--TSyExeINg.woff2">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-black-light.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-black-light.min.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-black.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-black.min.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-blue-light.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-blue-light.min.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-blue.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-blue.min.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-green-light.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-green-light.min.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-green.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-green.min.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-purple-light.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-purple-light.min.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-purple.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-purple.min.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-red-light.css">
+      <publishTime>11/10/2016 08:19:12</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-red-light.min.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-red.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-red.min.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-yellow-light.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-yellow-light.min.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-yellow.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/skins/skin-yellow.min.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/skins/_all-skins.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/skins/_all-skins.min.css">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/css/webFonts.CSS">
+      <publishTime>11/10/2016 13:24:48</publishTime>
+    </File>
+    <File Include="dist/dialog.js">
+      <publishTime>11/11/2016 21:17:58</publishTime>
+    </File>
+    <File Include="dist/img/avatar.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/avatar0.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/avatar04.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/avatar2.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/avatar3.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/avatar5.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/boxed-bg.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/boxed-bg.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/default-50x50.gif">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/icons.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/photo1.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/photo2.png">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/photo3.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/photo4.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/user1-128x128.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/user2-160x160.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/user3-128x128.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/user4-128x128.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/user5-128x128.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/user6-128x128.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/user7-128x128.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/img/user8-128x128.jpg">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/jquery-1.11.1.min.js">
+      <publishTime>11/14/2016 22:13:32</publishTime>
+    </File>
+    <File Include="dist/jquery-3.1.1.js">
+      <publishTime>11/10/2016 08:23:36</publishTime>
+    </File>
+    <File Include="dist/jquery-3.1.1.min.js">
+      <publishTime>11/10/2016 08:23:36</publishTime>
+    </File>
+    <File Include="dist/js/app.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/app.min.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/demo.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/jquery-ui.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/jquery-ui.min.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/moment.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/moment.min.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/pages/dashboard.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/pages/dashboard2.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/raphael-min.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/js/raphael.js">
+      <publishTime>11/10/2016 08:19:14</publishTime>
+    </File>
+    <File Include="dist/loading.gif">
+      <publishTime>11/14/2016 22:38:16</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap-datepicker/bootstrap-datepicker.js">
+      <publishTime>11/12/2016 09:15:26</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap-datepicker/datepicker3.css">
+      <publishTime>11/12/2016 09:15:26</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.css">
+      <publishTime>11/12/2016 10:18:30</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js">
+      <publishTime>11/12/2016 10:18:16</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap-dialog/bootstrap-dialog.min.css">
+      <publishTime>11/10/2016 08:24:56</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap-dialog/bootstrap-dialog.min.js">
+      <publishTime>11/11/2016 21:11:56</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap-slider/bootstrap-slider.js">
+      <publishTime>11/12/2016 22:46:12</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap-slider/slider.css">
+      <publishTime>11/12/2016 22:46:12</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap/bootstrap.css">
+      <publishTime>11/10/2016 08:20:52</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap/bootstrap.js">
+      <publishTime>11/10/2016 08:21:06</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap/bootstrap.min.css">
+      <publishTime>11/10/2016 08:20:52</publishTime>
+    </File>
+    <File Include="dist/plugins/bootstrap/bootstrap.min.js">
+      <publishTime>11/10/2016 08:21:06</publishTime>
+    </File>
+    <File Include="dist/plugins/datatables/dataTables.bootstrap.css">
+      <publishTime>11/13/2016 15:20:50</publishTime>
+    </File>
+    <File Include="dist/plugins/datatables/dataTables.bootstrap.min.js">
+      <publishTime>11/13/2016 15:20:50</publishTime>
+    </File>
+    <File Include="dist/plugins/datatables/dataTables.responsive.css">
+      <publishTime>11/13/2016 15:20:20</publishTime>
+    </File>
+    <File Include="dist/plugins/datatables/dataTables.responsive.min.js">
+      <publishTime>11/13/2016 15:20:10</publishTime>
+    </File>
+    <File Include="dist/plugins/datatables/jquery.dataTables.min.js">
+      <publishTime>11/13/2016 15:47:18</publishTime>
+    </File>
+    <File Include="dist/plugins/date-rangepicker/daterangepicker-bs3.css">
+      <publishTime>11/12/2016 09:15:56</publishTime>
+    </File>
+    <File Include="dist/plugins/date-rangepicker/daterangepicker.js">
+      <publishTime>11/12/2016 09:15:56</publishTime>
+    </File>
+    <File Include="dist/plugins/font-awesome/font-awesome.css">
+      <publishTime>11/10/2016 08:22:26</publishTime>
+    </File>
+    <File Include="dist/plugins/font-awesome/font-awesome.min.css">
+      <publishTime>11/10/2016 08:22:26</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/fontawesome-webfont.eot">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/fontawesome-webfont.svg">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/fontawesome-webfont.ttf">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/fontawesome-webfont.woff">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/fontawesome-webfont.woff2">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/FontAwesome.otf">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/ionicons.eot">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/ionicons.svg">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/ionicons.ttf">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/fonts/ionicons.woff">
+      <publishTime>11/10/2016 08:21:38</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/icheck.js">
+      <publishTime>11/10/2016 08:24:12</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/icheck.min.js">
+      <publishTime>11/10/2016 08:24:12</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/aero%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/aero.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/aero.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/blue%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/blue.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/blue.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/green%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/green.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/green.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/grey%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/grey.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/grey.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/orange%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/orange.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/orange.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/pink%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/pink.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/pink.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/purple%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/purple.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/purple.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/red%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/red.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/red.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/square%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/square.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/square.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/yellow%402x.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/yellow.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/yellow.png">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/iCheck/square/_all.css">
+      <publishTime>11/10/2016 08:24:28</publishTime>
+    </File>
+    <File Include="dist/plugins/ionicons/ionicons.css">
+      <publishTime>11/12/2016 20:51:40</publishTime>
+    </File>
+    <File Include="dist/plugins/ionicons/ionicons.min.css">
+      <publishTime>11/12/2016 20:51:52</publishTime>
+    </File>
+    <File Include="dist/plugins/select2/select2.min.css">
+      <publishTime>11/12/2016 08:52:24</publishTime>
+    </File>
+    <File Include="dist/plugins/select2/select2.min.js">
+      <publishTime>11/12/2016 08:52:24</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>11/10/2016 08:25:46</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>01/20/2017 06:53:23</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>01/30/2017 23:08:31</publishTime>
+    </File>
+    <File Include="Root.Master">
+      <publishTime>01/30/2017 01:30:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/16/2017 01:14:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

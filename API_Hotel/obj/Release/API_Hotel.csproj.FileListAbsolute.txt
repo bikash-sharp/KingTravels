@@ -1,0 +1,28 @@
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\API_Hotel\bin\Release\API_Hotel.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\API_Hotel\bin\Release\API_Hotel.pdb
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\API_Hotel\bin\Release\KingTravels_Common.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\API_Hotel\bin\Release\KingTravels_Common.pdb
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\API_Hotel\obj\Release\API_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\API_Hotel\obj\Release\API_Hotel.dll
+C:\Users\bikash.ranjan\Desktop\CRM Updates\Projectss\KingTravels\API_Hotel\obj\Release\API_Hotel.pdb
+F:\Major\KingTravels\API_Hotel\bin\Release\API_Hotel.dll
+F:\Major\KingTravels\API_Hotel\bin\Release\API_Hotel.pdb
+F:\Major\KingTravels\API_Hotel\bin\Release\KingTravels_Common.dll
+F:\Major\KingTravels\API_Hotel\bin\Release\KingTravels_Common.pdb
+F:\Major\KingTravels\API_Hotel\obj\Release\API_Hotel.csprojResolveAssemblyReference.cache
+F:\Major\KingTravels\API_Hotel\obj\Release\API_Hotel.dll
+F:\Major\KingTravels\API_Hotel\obj\Release\API_Hotel.pdb
+C:\Users\Maverick\Desktop\KingTravels\API_Hotel\bin\Release\API_Hotel.dll
+C:\Users\Maverick\Desktop\KingTravels\API_Hotel\bin\Release\API_Hotel.pdb
+C:\Users\Maverick\Desktop\KingTravels\API_Hotel\bin\Release\KingTravels_Common.dll
+C:\Users\Maverick\Desktop\KingTravels\API_Hotel\bin\Release\KingTravels_Common.pdb
+C:\Users\Maverick\Desktop\KingTravels\API_Hotel\obj\Release\API_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\Desktop\KingTravels\API_Hotel\obj\Release\API_Hotel.dll
+C:\Users\Maverick\Desktop\KingTravels\API_Hotel\obj\Release\API_Hotel.pdb
+C:\Users\bikash.ranjan\Desktop\KingTravels\API_Hotel\bin\Release\API_Hotel.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\API_Hotel\bin\Release\API_Hotel.pdb
+C:\Users\bikash.ranjan\Desktop\KingTravels\API_Hotel\bin\Release\KingTravels_Common.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\API_Hotel\bin\Release\KingTravels_Common.pdb
+C:\Users\bikash.ranjan\Desktop\KingTravels\API_Hotel\obj\Release\API_Hotel.csprojResolveAssemblyReference.cache
+C:\Users\bikash.ranjan\Desktop\KingTravels\API_Hotel\obj\Release\API_Hotel.dll
+C:\Users\bikash.ranjan\Desktop\KingTravels\API_Hotel\obj\Release\API_Hotel.pdb

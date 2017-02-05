@@ -1,0 +1,271 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Root.master.cs" Inherits="KingTravels.Root" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+    <title>Admin Dashboard</title>
+    <link href="/dist/plugins/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/dist/plugins/select2/select2.min.css" rel="stylesheet" type="text/css" />
+    <link href="/dist/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.css" rel="stylesheet" type="text/css" />
+    <link href="/dist/plugins/datatables/dataTables.bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="/dist/plugins/datatables/dataTables.responsive.css" rel="stylesheet" type="text/css" />
+
+    <link href="/dist/plugins/font-awesome/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="/dist/plugins/ionicons/ionicons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/dist/plugins/iCheck/square/_all.css" rel="stylesheet" type="text/css" />
+    <link href="/dist/css/AdminLTE.min.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" href="/dist/css/skins/skin-blue.min.css" type="text/css" />
+
+
+    <script src="/dist/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <script src="/dist/js/moment.min.js" type="text/javascript"></script>
+    <script src="/dist/plugins/bootstrap/bootstrap.min.js" type="text/javascript"></script>
+
+    <%--<script src="/dist/plugins/bootstrap-datepicker/bootstrap-datepicker.js" type="text/javascript"></script>
+    <script src="/dist/plugins/date-rangepicker/daterangepicker.js" type="text/javascript"></script>--%>
+    <script src="/dist/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js"></script>
+    <script src="/dist/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="/dist/plugins/datatables/dataTables.bootstrap.min.js"></script>
+    <script src="/dist/plugins/datatables/dataTables.responsive.min.js"></script>
+    <script src="/dist/plugins/select2/select2.min.js" type="text/javascript"></script>
+    <script src="/dist/plugins/bootstrap-dialog/bootstrap-dialog.min.js" type="text/javascript"></script>
+    <script src="/dist/plugins/iCheck/icheck.min.js" type="text/javascript"></script>
+    <script src="/dist/dialog.js" type="text/javascript"></script>
+    <style type="text/css">
+        select, option {
+            cursor: pointer;
+        }
+
+        .modal-static {
+            position: fixed;
+            top: 50% !important;
+            left: 50% !important;
+            margin-top: -100px;
+            margin-left: -100px;
+            overflow: visible !important;
+        }
+
+            .modal-static,
+            .modal-static .modal-dialog,
+            .modal-static .modal-content {
+                width: 200px;
+            }
+
+                .modal-static .modal-dialog,
+                .modal-static .modal-content {
+                    padding: 0 !important;
+                    margin: 0 !important;
+                }
+
+                    .modal-static .modal-content .icon {
+                    }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="sc" runat="server" EnablePageMethods="true" EnablePartialRendering="true"></asp:ScriptManager>
+        <div class="wrapper">
+            <!-- Main Header -->
+            <header class="main-header">
+                <!-- Logo -->
+                <a href="/Dashboard" class="logo">
+                    <span class="logo-mini"><b>D</b></span>
+                    <span class="logo-lg" style="font-size: smaller;"><b>Admin</b></span>
+                </a>
+                <!-- Header Navbar -->
+                <nav class="navbar navbar-static-top" role="navigation">
+                    <!-- Sidebar toggle button-->
+                    <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+                        <span class="sr-only">Toggle navigation</span>
+                    </a>
+                    <!-- Navbar Right Menu -->
+                    <div class="navbar-custom-menu">
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown messages-menu">
+                                <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown">
+                                    <i class="fa fa-inr"></i>
+                                    <asp:Literal ID="ltrAmount" runat="server" Text="0.00"></asp:Literal>
+                                </a>
+                            </li>
+                            <!-- User Account Menu -->
+                            <li class="dropdown user user-menu">
+                                <!-- Menu Toggle Button -->
+                                <a href="#" class="dropdown-toggle caret-r" data-toggle="dropdown">
+                                    <img src="/dist/img/avatar.png" class="user-image" alt="User Image" />
+                                    <span class="hidden-xs"><%= KingTravels_Common.BLFunction.GetFullName() %></span>
+                                </a>
+                                <ul class="dropdown-menu subscribe-form">
+                                    <!-- The user image in the menu -->
+                                    <li class="user-header">
+                                        <img src="/dist/img/avatar0.jpg" class="img-circle" alt="User Image" />
+                                        <p><b><%= KingTravels_Common.BLFunction.GetFullName() %></b></p>
+                                    </li>
+                                    <!-- Menu Footer-->
+                                    <li class="user-footer">
+                                        <div class="pull-right">
+                                            <asp:LinkButton ID="lnkbLogOut" runat="server" CausesValidation="false" CssClass="btn btn-default btn-flat" OnClick="lnkbLogOut_Click">Sign out</asp:LinkButton>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+            <!-- Left side column. contains the logo and sidebar -->
+            <aside class="main-sidebar">
+                <!-- sidebar: style can be found in sidebar.less -->
+                <section class="sidebar">
+                    <!-- Sidebar Menu -->
+                    <ul class="sidebar-menu">
+                        <li id="liHome">
+                            <a href="/Dashboard"><i class="fa fa-home"></i><span>Dashboard</span></a>
+                        </li>
+
+                        <li id="liHotel" class="treeview">
+                            <a href="javascript:;"><i class="fa fa-institution"></i><span>Hotels Reservation</span></a>
+                            <ul class="treeview-menu">
+                                <li id="liHotelInfo"><a href="/Home"><i class="fa fa-fw fa-user-plus"></i>Hotel Info</a></li>
+                                <li id="liBooking"><a href="/Booking"><i class="fa fa-fw  fa-edit "></i>Booking Info</a></li>
+                                <li id="liCancellations"><a href="/Cancellation"><i class="fa fa-fw fa-tasks"></i>Cancellation Info</a></li>
+                            </ul>
+                        </li>
+                        <li id="liAir" class="treeview">
+                            <a href="javascript:;"><i class="fa fa-plane"></i><span>Air Reservation</span></a>
+                            <ul class="treeview-menu">
+                                <li id="liAirInfo"><a href="/Airline"><i class="fa fa-fw fa-user-plus"></i>Airline Info</a></li>
+                                <li id="liAirBooking"><a href="/AirlineInfo"><i class="fa fa-fw fa-user-plus"></i>Booking Info</a></li>
+                                <li id="liAirCancellations"><a href="javascript:;"><i class="fa fa-fw fa-user-plus"></i>Cancellation Info</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <!-- /.sidebar-menu -->
+                </section>
+                <!-- /.sidebar -->
+            </aside>
+            <!-- Content Wrapper. Contains page content -->
+            <div class="content-wrapper">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder_Body" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <footer class="main-footer">
+            <!-- To the right -->
+            <div class="pull-right hidden-xs">
+            </div>
+            <!-- Default to the left -->
+            <strong>Copyright © 2016 <a href="#">Demo</a></strong>. All rights reserved.
+     
+        </footer>
+        </div>
+        
+        <script src="/dist/js/app.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('input').iCheck({
+                    checkboxClass: 'icheckbox_square-blue',
+                    radioClass: 'iradio_square-blue',
+                    increaseArea: '20%' // optional
+                });
+
+                $('input').on('ifChanged', function (event) {
+                    $(event.target).trigger('click');
+                });
+
+                $('.dropdown-select').select2({
+                    placeholder: "Select an option",
+                    allowClear: true
+                });
+
+
+                $(".date-picker").datetimepicker({
+                    format: 'DD/MM/YYYY',
+                    sideBySide: true,
+                    minDate: new Date(),
+                    showClear: true,
+                    showClose: true,
+                    allowInputToggle: true,
+                });
+                $(".date-picker2").datetimepicker({
+                    format: 'DD/MM/YYYY',
+                    sideBySide: true,
+                    showClear: true,
+                    showClose: true,
+                    allowInputToggle: true,
+                });
+
+                $('#example').DataTable({
+                    responsive: true,
+                    retrieve: true,
+                    paging: true,
+                    lengthChange: false,
+                    searching: true,
+                    ordering: true,
+                    info: true,
+                    autoWidth: false
+                });
+                $('#example2').DataTable({
+                    responsive: true,
+                    retrieve: true,
+                    paging: true,
+                    lengthChange: false,
+                    searching: false,
+                    ordering: true,
+                    info: true,
+                    autoWidth: false
+                });
+                //$(".date-picker").datepicker({
+                //    format: 'DD/mm/YYYY HH:mm'
+                //});
+            });
+        </script>
+        <script type="text/javascript" language="javascript">
+            
+            var prm = Sys.WebForms.PageRequestManager.getInstance();
+            var postBackElement;
+            prm.add_initializeRequest(InitializeRequest);
+            prm.add_beginRequest(beginRequest);
+            prm.add_pageLoading(pageloading);
+            prm.add_pageLoaded(pageloaded);
+            function InitializeRequest(sender, args) {
+                postBackElement = args.get_postBackElement();
+                $('.overlay').css('display', 'block');
+            }
+
+            function pageloading(sender, args) {
+                $('.overlay').css('display', 'block');
+            }
+
+            $('.submit').on('click', function () {
+                $('.overlay').css('display', 'block');
+            });
+
+            function pageloaded(sender, args) {                
+                $('.overlay').css('display', 'none');
+            }
+
+            function beginRequest(sender, args) {
+                
+                $('.overlay').css('display', 'block');
+                var tabContainer = $get(postBackElement.id);
+                var _updateProgressDiv = $get('.overlay');
+                var tabContainerwBounds = Sys.UI.DomElement.getBounds(tabContainer);
+                var updateProgressDivBounds = Sys.UI.DomElement.getBounds(_updateProgressDiv);
+
+
+                //  center of the control
+                var x = tabContainerwBounds.x + Math.round(tabContainerwBounds.width / 2) - Math.round(updateProgressDivBounds.width / 2) - 37;
+                var y = tabContainerwBounds.y + Math.round(tabContainerwBounds.height / 2) - Math.round(updateProgressDivBounds.height / 2) - 15;
+                Sys.UI.DomElement.setLocation(_updateProgressDiv, x, y);
+            }
+    </script>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder_Scripts" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
