@@ -418,8 +418,12 @@ namespace KingTravels_Common
     public class BedType
     {
         public int BedTypeCode { get; set; }
-        public int BedTypeDescription { get; set; }
-        public BedType() { }
+        public string BedTypeDescription { get; set; }
+        public BedType()
+        {
+            BedTypeCode = 0;
+            BedTypeDescription = String.Empty;
+        }
     }
     public class HotelRoomsDetail
     {
@@ -526,6 +530,7 @@ namespace KingTravels_Common
         public string RoomTypeCode { get; set; }
         public string RoomTypeName { get; set; }
         public string RatePlanCode { get; set; }
+        public object BedTypeCode {get; set;}
         public List<BedType> BedTypes { get; set; }
         public SmokingPreference SmokingPreference { get; set; }
         public List<string> Supplements { get; set; }
@@ -538,6 +543,7 @@ namespace KingTravels_Common
             BedTypes = new List<BedType>();
             Supplements = new List<string>();
             HotelPassenger = new List<HotelPassenger>();
+            BedTypeCode = null;
         }
     }
 

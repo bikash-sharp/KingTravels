@@ -44,7 +44,7 @@ namespace KingTravels_Common
                 clientIp = HttpContext.Current.Request.ServerVariables["REMOTE_ADDR"];
                 if (clientIp == "::1")
                 {
-                    clientIp = "192.178.1.156";
+                    clientIp = "192.178.1.178";
                 }
             }
 
