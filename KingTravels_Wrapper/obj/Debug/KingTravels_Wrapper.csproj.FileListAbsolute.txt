@@ -69,16 +69,3 @@ C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\bin\Debug\Newtonsoft.J
 C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\obj\Debug\KingTravels_Wrapper.csprojResolveAssemblyReference.cache
 C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\obj\Debug\KingTravels_Wrapper.dll
 C:\Users\Maverick\Desktop\KingTravels\KingTravels_Wrapper\obj\Debug\KingTravels_Wrapper.pdb
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\KingTravels_Wrapper.dll
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\KingTravels_Wrapper.pdb
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\API_Air.dll
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\API_Hotel.dll
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\KingTravels_Common.dll
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\Newtonsoft.Json.dll
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\API_Air.pdb
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\API_Hotel.pdb
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\KingTravels_Common.pdb
-F:\Major\KingTravels\KingTravels_Wrapper\bin\Debug\Newtonsoft.Json.xml
-F:\Major\KingTravels\KingTravels_Wrapper\obj\Debug\KingTravels_Wrapper.csprojResolveAssemblyReference.cache
-F:\Major\KingTravels\KingTravels_Wrapper\obj\Debug\KingTravels_Wrapper.dll
-F:\Major\KingTravels\KingTravels_Wrapper\obj\Debug\KingTravels_Wrapper.pdb

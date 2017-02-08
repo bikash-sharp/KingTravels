@@ -25,10 +25,3 @@ C:\Users\Maverick\Desktop\KingTravels\API_Air\bin\Debug\KingTravels_Common.pdb
 C:\Users\Maverick\Desktop\KingTravels\API_Air\obj\Debug\API_Air.csprojResolveAssemblyReference.cache
 C:\Users\Maverick\Desktop\KingTravels\API_Air\obj\Debug\API_Air.dll
 C:\Users\Maverick\Desktop\KingTravels\API_Air\obj\Debug\API_Air.pdb
-F:\Major\KingTravels\API_Air\bin\Debug\API_Air.dll
-F:\Major\KingTravels\API_Air\bin\Debug\API_Air.pdb
-F:\Major\KingTravels\API_Air\bin\Debug\KingTravels_Common.dll
-F:\Major\KingTravels\API_Air\bin\Debug\KingTravels_Common.pdb
-F:\Major\KingTravels\API_Air\obj\Debug\API_Air.csprojResolveAssemblyReference.cache
-F:\Major\KingTravels\API_Air\obj\Debug\API_Air.dll
-F:\Major\KingTravels\API_Air\obj\Debug\API_Air.pdb

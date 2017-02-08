@@ -112,7 +112,9 @@ namespace KingTravels.Admin
                                     SmokingPreference = 0,
                                     Supplements = s.HotelSupplements,
                                     RoomTypeCode = s.RoomTypeCode,
-                                    RoomTypeName = s.RoomTypeName
+                                    RoomTypeName = s.RoomTypeName,
+                                    BedTypeCode = null,
+                                    HotelPassenger = null
                                 }))
                             };
                             objBlockRoom.IsVoucherBooking = "0";
