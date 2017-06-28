@@ -26,7 +26,7 @@ namespace KingTravels_Wrapper
         public static int InstanceNo = 0;
 
         #region Api
-        public static string apiClientId = "ApiIntegration";
+        public static string apiClientId = "ApiIntegrationnew";
         public string IPAddress
         {
             get
